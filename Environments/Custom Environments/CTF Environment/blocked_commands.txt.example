@@ -1,0 +1,11 @@
+***Do not use this file, this only serves as a point of reference***
+ 
+tree
+find
+grep
+
+Instructions:
+1. Use blocked_commands.txt as a way to block the command execution
+2. As demonstrated above, the commands should be newline seperated
+3. No other symbols to be used
+4. Don't give explicit path of command; e.g. /usr/bin/ls
